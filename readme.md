@@ -11,13 +11,13 @@ Autonomous vehicles are equipped with sensors that are used to collect informati
 
 ## Dead reckoning path.
 <p align="center">
-  <img width="500" alt="image" src="https://user-images.githubusercontent.com/89351094/209570477-4fef8cdb-fed7-4f32-8d22-aede8d034250.jpg">
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/89351094/209570753-4efd4c7f-5f0d-422d-ae6c-4eb51d1b8bf8.jpg">
  </p>
 
  
  ## Results of particle flter SLAM.
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/89351094/209570616-e5df8473-d3dc-44d0-bbad-baffb51bf294.png"/>
+  <img width="500" alt="image" src = "https://user-images.githubusercontent.com/89351094/209570616-e5df8473-d3dc-44d0-bbad-baffb51bf294.png"/>
 </p>
 
 
