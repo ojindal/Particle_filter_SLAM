@@ -21,7 +21,7 @@ Autonomous vehicles are equipped with sensors that are used to collect informati
 </p>
 
 
-## I have created master cdv files syncing data of all the three sensors in different manner to fetch them needed.
+## I have created master csv files syncing data of all the three sensors in different manner to fetch them needed.
 These will automatically be created when the code file: synchronous_data.py runs
 
 There are total four code files that needs to be run synchronously:
